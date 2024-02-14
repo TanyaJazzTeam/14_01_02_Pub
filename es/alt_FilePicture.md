@@ -18,7 +18,7 @@ rayas de cebra | son limpios | ~~$1~~
 
 Dillinger es un editor HTML5 Markdown con tecnología AngularJS, habilitado para la nube, listo para dispositivos móviles y con almacenamiento fuera de línea.
 
-- Escribe algo de Markdown a la izquierda
+- Escribe algo de Markdown a la izquierdanu
 - Ver HTML a la derecha
 - magia
 
