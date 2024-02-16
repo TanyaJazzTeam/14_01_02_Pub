@@ -9,7 +9,7 @@ updates:
     ignore:
       - dependency-name: remark*
         update-types:
-          - version-update:semver-major
+          - version-update:semver-major 7г
       - dependency-name: node-fetch
         update-types:
           - version-update:semver-major
