@@ -16,6 +16,7 @@ updates:
       - dependency-name: ava
         update-types:
           - version-update:semver-major
+          - оог 
       - dependency-name: unified-lint-rule
         update-types:
           - version-update:semver-major
